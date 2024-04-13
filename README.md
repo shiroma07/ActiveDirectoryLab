@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 Project consists of creating Active Directory Domain Server (AD DS), RAS/NAT, DHCP and client PC to join the domain. The client is using dynamic host and connect to the network through domain controller internal network.
-This utility allows you to use any of the created user account in active directory to be able to login to the client PC. The PowerShell script will automatically create more than 1000+ users in active directory based on the user's name.
+The PowerShell script will automatically create more than 1000+ users in active directory based on the user's name. This utility allows you to use any of the created user account in active directory to be able to login to the client PC.
 <br />
 
 
