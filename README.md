@@ -93,7 +93,7 @@ The PowerShell script is used to automatically generate more than 1000+ users in
 <br />
   Any user able to login to the client to simulate the corp environment: <br />
 
-   ![Account login](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1d7b1882-76b6-4420-bd35-b925d1d0f9e2)
+   ![Account login](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/408e72ef-3135-4705-9b03-720f34d244ae)
 <br />
 <br />
 </p>
