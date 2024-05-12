@@ -20,8 +20,13 @@ The PowerShell script is used to automatically generate more than 1000+ users in
 
 <h2>Lab walk-through:</h2>
 <p align="center">
-  Virtual box settings on DC: <br />
-
+  Project Overview: <br />
+ 
+  ![Project Overview](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/15dd1f0a-d48d-4930-b4c4-cd3774f57c0c)
+<br />
+<br />
+ Virtual box settings on DC: <br />
+ 
   ![Virtual Box Settings](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1058de9f-40e8-430a-ab76-a218337759d6)
   ![Virtual Box Settings2](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1565f725-84fe-445a-ab7f-4fb589f546dc)
 <br />
