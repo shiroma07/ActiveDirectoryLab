@@ -18,11 +18,11 @@ The PowerShell script is used to automatically generate more than 1000+ users in
 - <b>Windows Server 2019</b>
 - <b>Windows 10 Pro (22H2)</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="![Join Domain](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/0882aa65-80a3-4d02-92a7-36b77d84722b)" alt="Join Domain"/>
+<p align="center">Client join to the domain created in domain controller: <br />
+ 
+![Join Domain](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/afda9c40-a4c6-4a3a-914e-51b34e12f4b2)
 <br />
 <br />
 Select the disk:  <br/>
