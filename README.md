@@ -22,7 +22,7 @@ The PowerShell script is used to automatically generate more than 1000+ users in
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Join Domain](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/0882aa65-80a3-4d02-92a7-36b77d84722b)" alt="Join Domain"/>
 <br />
 <br />
 Select the disk:  <br/>
