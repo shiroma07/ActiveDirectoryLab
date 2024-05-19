@@ -22,7 +22,7 @@ The PowerShell script is used to automatically generate more than 1000+ users in
 <p align="center">
   Project Overview: <br />
  
-  ![Project Overview](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/15dd1f0a-d48d-4930-b4c4-cd3774f57c0c)
+ ![Project Overview](https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/fe6a2fa9-4fe4-4db6-a311-bfb4da540623)
  <br />
  <br />
  Virtual box settings on DC: <br />
