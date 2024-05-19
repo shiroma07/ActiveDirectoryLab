@@ -20,16 +20,18 @@ The PowerShell script is used to automatically generate more than 1000+ users in
 
 <h2>Lab walk-through:</h2>
 <p align="center" width="100%">
- Project Overview: <br />
+ <strong>Project Overview: </strong><br />
+ The entire system consists of one Domain Controller and one Client. <br />
+ Client1 will connect to the internet through the internal network to simulate a private network. <br />
  <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/fe6a2fa9-4fe4-4db6-a311-bfb4da540623" alt="Project Overview"/>
-</p>
+ <br />
  <br />
  Virtual box settings on DC: <br />
-  <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1058de9f-40e8-430a-ab76-a218337759d6" alt="Virtual Box Settings"/>
-  <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1565f725-84fe-445a-ab7f-4fb589f546dc" alt="Virtual Box Settings2"/>
+  <img width="49%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1058de9f-40e8-430a-ab76-a218337759d6" alt="Virtual Box Settings"/>
+  <img width="49%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1565f725-84fe-445a-ab7f-4fb589f546dc" alt="Virtual Box Settings2"/>
  <br />
  <br />
-  Set IP address for internal network: <br /> 
+  Set IP address for internal network on domain controller: <br /> 
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/98e31966-d7be-4165-9e5b-4a30bc7efdf8" alt="Set IP Address in DC"/>
  <br />
  <br />
