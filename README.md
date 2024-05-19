@@ -23,12 +23,12 @@ The PowerShell script is used to automatically generate more than 1000+ users in
  <strong>Project Overview: </strong><br />
  The entire system consists of one Domain Controller and one Client. <br />
  Client1 will connect to the internet through the internal network to simulate a private network. <br />
- <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/fe6a2fa9-4fe4-4db6-a311-bfb4da540623" alt="Project Overview"/>
+  <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/a84139bd-3e36-48d8-82bb-bdcb093b7a6b" alt="Project Overview"/>
  <br />
  <br />
- Virtual box settings on DC: <br />
-  <img width="49%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1058de9f-40e8-430a-ab76-a218337759d6" alt="Virtual Box Settings"/>
-  <img width="49%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1565f725-84fe-445a-ab7f-4fb589f546dc" alt="Virtual Box Settings2"/>
+ Virtual box settings on domain controller: <br />
+  <img width="49.5%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1058de9f-40e8-430a-ab76-a218337759d6" alt="Virtual Box Settings"/>
+  <img width="49.5%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1565f725-84fe-445a-ab7f-4fb589f546dc" alt="Virtual Box Settings2"/>
  <br />
  <br />
   Set IP address for internal network on domain controller: <br /> 
