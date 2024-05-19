@@ -3,7 +3,7 @@
  ###
 
 <h2>Description</h2>
-The project involves setting up an Active Directory Domain Server (AD DS), configuring Remote Access Service (RAS) features to support RAS/NAT, implementing DHCP services, and creating client to join the domain. The client utilize dynamic hosts and connect to the network through the domain controller's internal network. A PowerShell script is used to automatically generate over 1000 users in Active Directory based on their names. This framework enables any of the created user accounts in Active Directory to be able to log in to the client PCs, simulating a corporate environment.
+The project involves setting up an Active Directory Domain Server (AD DS), configuring Remote Access Service (RAS) features to support RAS/NAT, implementing DHCP services, and creating client to join the domain. The client utilize dynamic hosts and connect to the network through the domain controller's internal network. A PowerShell script is used to automatically generate over 1000 users in Active Directory based on their full name. This framework enables any of the created user accounts in Active Directory to be able to log in to the client PCs, simulating a corporate environment.
 <br />
 
 
