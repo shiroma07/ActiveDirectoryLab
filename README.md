@@ -28,7 +28,8 @@ The PowerShell script is used to automatically generate more than 1000+ users in
  <br />
  <br />
   Virtual box settings on domain controller: <br />
-  Adapter 1 is configured for Internet connection, while Adapter 2 is designated for Internal connectivity. The domain controller for this setup will utilize Windows Server 2019. <br />
+  Adapter 1 is configured for Internet connection, while Adapter 2 is designated for Internal connectivity. <br />
+  The domain controller for this setup will utilize Windows Server 2019. <br />
   <img width="80%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1058de9f-40e8-430a-ab76-a218337759d6" alt="Virtual Box Settings"/>
   <img width="80%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1565f725-84fe-445a-ab7f-4fb589f546dc" alt="Virtual Box Settings2"/>
  <br />
@@ -51,17 +52,19 @@ The PowerShell script is used to automatically generate more than 1000+ users in
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/8ffc5727-dc7a-40cc-8e6b-c57d4f7e7d5a" alt="Install RAS 2"/>
  <br />
  <br />
-  Configure Network Address Translation(NAT) in Routing and Remote Access: <br />
+  Configure Network Address Translation(NAT) from Routing and Remote Access: <br />
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/be719d97-16f7-4770-909f-263c8fdf0e6e" alt="Configure NAT"/>
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/0a2c5836-a778-44be-871b-8b4faa58850a" alt="Configure NAT 2"/>
  <br />
  <br />
-  In Server Manager, proceed to install Dynamic Host Configuration Protocol(DHCP) and configure it with the following IP address range and subnet mask settings: <br />
+  In Server Manager, proceed to install Dynamic Host Configuration Protocol(DHCP) and <br />
+  configure it with the following IP address range and subnet mask settings: <br />
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1c2e56aa-c20b-4823-aafb-dff3cc58a14f" alt="Install DHCP"/>
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/173fa1bc-be4c-4c10-9884-285efcdf7496" alt="Install DHCP 2"/>
  <br />
  <br />
-   Create a script to automatically generate users in Active Directory. The file names.txt contains over 1000 random user names (First name, Last name): <br />
+   Create a script to automatically generate users in Active Directory. <br />
+   The file names.txt contains over 1000 random user names (First name, Last name): <br />
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/0facf40c-d4ef-4a64-8c58-4c0ffdd923e8" alt="Script to create users"/>
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/244e2268-0e96-436f-92e3-cdecc7198a76" alt="User created"/>
  <br />
@@ -82,11 +85,11 @@ The PowerShell script is used to automatically generate more than 1000+ users in
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/891a32e5-af53-407e-89e0-bae0966e425b" alt="Address Leases"/>
  <br />
  <br />
-  Client in active directory: <br />
+  CLIENT1 also appears in Active Directory Users and Computers, indicating that the client has successfully joined the domain: <br />
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/052313d1-af9c-40d7-97ee-55e1d22d67e7" alt="Client in Active Directory"/>
  <br />
  <br />
-  Any user able to login to the client to simulate the corp environment: <br />
+  Any users created in Active Directory can log in to CLIENT1 to simulate the corporate environment: <br />
    <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/408e72ef-3135-4705-9b03-720f34d244ae" alt="Account login"/>
  <br />
  <br />
