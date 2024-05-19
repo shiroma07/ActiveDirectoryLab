@@ -23,16 +23,17 @@ The PowerShell script is used to automatically generate more than 1000+ users in
  <strong>Project Overview: </strong><br />
  The entire system consists of one Domain Controller and one Client. <br />
  Client1 will connect to the internet through the internal network to simulate a private network. <br />
+ Fully qualified domain name(FQDN) will be set as shiro.com with DNS server using 172.16.0.1 address.
   <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/a84139bd-3e36-48d8-82bb-bdcb093b7a6b" alt="Project Overview"/>
  <br />
  <br />
- Virtual box settings on domain controller: <br />
+ Virtual box settings set on domain controller: <br />
   <img width="49.5%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1058de9f-40e8-430a-ab76-a218337759d6" alt="Virtual Box Settings"/>
   <img width="49.5%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/1565f725-84fe-445a-ab7f-4fb589f546dc" alt="Virtual Box Settings2"/>
  <br />
  <br />
   Set IP address for internal network on domain controller: <br /> 
-   <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/98e31966-d7be-4165-9e5b-4a30bc7efdf8" alt="Set IP Address in DC"/>
+   <img width="75%" src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/98e31966-d7be-4165-9e5b-4a30bc7efdf8" alt="Set IP Address in DC"/>
  <br />
  <br />
   Creating domain from server manager in domain controller: <br />
