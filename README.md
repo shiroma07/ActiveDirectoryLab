@@ -23,7 +23,7 @@ The project involves setting up an Active Directory Domain Server (AD DS), confi
  The entire system consists of one Domain Controller and one Client. Client1 will connect to the internet through the internal network to simulate a private network.
  Fully qualified domain name(FQDN) will be set as shiro.com, with the DNS server using the address 172.16.0.1. DHCP IP range for clients is set from 172.16.0.100 to 172.16.0.200. <br />
  <br />
-  <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/4bb17529-2d04-4945-b61b-9db74391b53c" alt="Project Overview"/>
+  <img src="https://github.com/shiroma07/ActiveDirectoryLab/assets/44857427/0af15305-7d07-4902-a744-7a455475963e" alt="Project Overview"/>
  <br />
  <br />
   Virtual box settings on domain controller: <br />
